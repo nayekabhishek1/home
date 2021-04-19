@@ -125,16 +125,16 @@ const getInTouch = {
 };
 
 const experiences = {
-  show: false,
+  show: true,
   heading: "Experiences",
   data: [
     {
-      role: 'Software Engineer',// Here Add Company Name
-      companylogo: require('../assets/img/siemens.jpg'),
+      role: 'Software Engineer - SIEMENS',
+      companylogo: require('../assets/img/siemens.png'),
       date: 'June 2020 – Present',
     },
     {
-      role: 'Programmer',
+      role: 'Programmer - Bitwise Solutions Private Limited',
       companylogo: require('../assets/img/bitwise.png'),
       date: 'June 2017 – June 2020',
     },
